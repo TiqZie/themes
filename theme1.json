@@ -98,22 +98,22 @@
       ],
       
       "CHANNELS_DEFAULT": [
-          "#7C6766"
+          "#3e0391"
       ],
       "TEXT_LINK": [
-          "#C2A8A7"
+          "#3e0391"
       ],
       "TEXT_DANGER": [
-          "#5A4565"
+          "#3e0391"
       ],
       "KEYBOARD": [
-          "#312438"
+          "#3e0391"
       ],
       "CHANNEL_ICON": [
-          "#EFDFD7"
+          "#3e0391"
       ],
       "CHAT_BACKGROUND": [
-          "#312438"
+          "#3e0391"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
           "#31223b"
